@@ -857,8 +857,7 @@
 		    months: ["Gennaio", "Febbraio", "Marzo", "Aprile", "Maggio", "Giugno", "Luglio", "Agosto", "Settembre", "Ottobre", "Novembre", "Dicembre"],
 		    monthsShort: ["Gen", "Feb", "Mar", "Apr", "Mag", "Giu", "Lug", "Ago", "Set", "Ott", "Nov", "Dic"],
 		    today: "Oggi"
-		}
-		
+		},
 		zh: {
 		  days: ["周日", "周一", "周二", "周三", "周四", "周五", "周六", "周日"],
           daysShort: ["日", "一", "二", "三", "四", "五", "六", "日"],
